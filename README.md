@@ -46,4 +46,3 @@ When a hand is detected within these areas, the script prints a corresponding me
 ## Credits
 
 This script is based on the Mediapipe library for hand tracking.
-```
